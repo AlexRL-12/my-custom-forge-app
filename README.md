@@ -1,4 +1,4 @@
-# Forge Hello World
+# Forge test App
 
 This project contains a Forge app written in TypeScript and React that displays `page 1 and page 2` in a Jira global page, `1 project page` and `1 admin page`.
 
@@ -23,17 +23,17 @@ npm install
 ## After that:
 
 
-- Build your app (inside of the `static/global-pages` , `static/admin-page` and `static/project-page` directories) --> One by one:
+- Build the app (inside of the `static/global-pages` , `static/admin-page` and `static/project-page` directories) --> One by one:
 ```
 npm run build
 ```
 
-- Deploy your app by running in root directory `my-custom-forge-app`:
+- Deploy the app by running in root directory `my-custom-forge-app`:
 ```
 forge deploy
 ```
 
-- Install your app in an Atlassian site by running (in root directory `my-custom-forge-app`):
+- Install the app in an Atlassian site by running (in root directory `my-custom-forge-app`):
 ```
 forge install
 ```
