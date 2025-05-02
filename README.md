@@ -1,6 +1,6 @@
 # Forge Hello World
 
-This project contains a Forge app written in TypeScript and React that displays `page 1 and page 2` in a Jira global page, 1 project page and 1 admin page.
+This project contains a Forge app written in TypeScript and React that displays `page 1 and page 2` in a Jira global page, `1 project page` and `1 admin page`.
 
 See [developer.atlassian.com/platform/forge/](https://developer.atlassian.com/platform/forge) for documentation and tutorials explaining Forge.
 
@@ -20,7 +20,7 @@ npm install
 ```
 
 
-After that:
+## After that:
 
 
 - Build your app (inside of the `static/global-pages` , `static/admin-page` and `static/project-page` directories) --> One by one:
